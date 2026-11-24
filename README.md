@@ -1,6 +1,6 @@
-# What's on today? — releases
+# Remind Me — releases
 
-Downloads and update information for **What's on today?**, a calendar for appointments,
+Downloads and update information for **Remind Me**, a calendar for appointments,
 tasks and birthdays with reminders, by BrainsTrust.
 
 - **Download:** see [Releases](../../releases). Windows: the `setup.exe` (recommended) or
